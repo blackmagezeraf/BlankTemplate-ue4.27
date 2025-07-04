@@ -359,14 +359,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "EnvironmentQueryEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "AISupport",
-			"Enabled": false
-		},
-		{
 			"Name": "AnimationSharing",
 			"Enabled": false
 		},
@@ -379,10 +371,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "CableComponent",
-			"Enabled": false
-		},
-		{
 			"Name": "CharacterAI",
 			"Enabled": false
 		},
@@ -391,22 +379,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "CustomMeshComponent",
-			"Enabled": false
-		},
-		{
-			"Name": "PostSplashScreen",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"XboxOne"
-			]
-		},
-		{
 			"Name": "DataValidation",
-			"Enabled": false
-		},
-		{
-			"Name": "EditableMesh",
 			"Enabled": false
 		},
 		{
@@ -415,10 +388,6 @@
 		},
 		{
 			"Name": "CameraShakePreviewer",
-			"Enabled": false
-		},
-		{
-			"Name": "GameplayCameras",
 			"Enabled": false
 		},
 		{
@@ -454,18 +423,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OodleData",
-			"Enabled": false
-		},
-		{
-			"Name": "OodleNetwork",
-			"Enabled": false
-		},
-		{
-			"Name": "TextureFormatOodle",
-			"Enabled": false
-		},
-		{
 			"Name": "PixWinPlugin",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -481,10 +438,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ProceduralMeshComponent",
-			"Enabled": false
-		},
-		{
 			"Name": "PropertyAccessNode",
 			"Enabled": false
 		},
@@ -498,10 +451,6 @@
 		},
 		{
 			"Name": "RiderLink",
-			"Enabled": false
-		},
-		{
-			"Name": "RiderSourceCodeAccess",
 			"Enabled": false
 		},
 		{
@@ -535,6 +484,63 @@
 		{
 			"Name": "ContentBrowserFileDataSource",
 			"Enabled": true
+		},
+		{
+			"Name": "RiderSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "SQLiteSupport",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintMaterialTextureNodes",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimDistanceMatching",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "GLTFImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	],
 	"TargetPlatforms": [
